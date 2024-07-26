@@ -1,8 +1,8 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Bronze Logo Package</title>
+<head>
+<title>BrochureFlyer logo Package</title>
 <meta name="keywords" content="">
 <meta name="description" content="">
 
@@ -65,7 +65,7 @@
                 <ul>
                  
                    <li><a href="tel:17203863784"> 0151 8080 128 </a></li>
-                   <li><a href="/get-a-quote.html" class="custBtn">Let's get Started</a></li>
+                   <li><a href="/get-a-quote.php" class="custBtn">Let's get Started</a></li>
                 </ul>
 
 
@@ -76,33 +76,45 @@
 </header>
 
 
+
+
+
+
+
+
+
+
+
+
+
 <section class="packDetailpage">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4">
-   		<div class="package-wrapper">
-        <div class="package-item">
-          <div class="heading">
-            <h2 class="pkge-name">Bronze <span>Logo Package</span></h2>
-            <p class="pkge-prce three-wrds">$19 </p>
-            <span class="old-price">$70</span>
-          </div>
-          <hr>
-          
-          <hr>
-          <div class="chat-con">
-            <ul>
-              <li class="pkge-ordr">
-                <a href="/get-a-quote.html?pack=1">Order Now</a>
-              </li>
-              <!--<li class="pkge-bkcl">-->
-              <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
-              <!--</li>-->
-            </ul>
-          </div>
+   				<div class="package-wrapper">
+      <div class="package-item">
+        <div class="heading">
+          <h2 class="pkge-name">BrochureFlyer <span>Logo Package</span></h2>
+          <p class="pkge-prce three-wrds">$135</p>
+          <span class="old-price">$270</span>
         </div>
+        <hr>
+        
+        <hr>
+        <div class="chat-con">
+          <ul>
+            <li class="pkge-ordr">
+              <a href="/get-a-quote.php?pack=1">Order Now</a>
+            </li>
+            <!--<li class="pkge-bkcl">-->
+            <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
+            <!--</li>-->
+          </ul>
+        </div>
+        
       </div>
-        <img src="../assets/images/stsationary.png" alt="*">
+    </div>
+    <img src="../assets/images/stsationary.png" alt="*">
 			</div>
 			<div class="col-md-8">
 			<div class="package-wrapper sec">
@@ -110,20 +122,18 @@
 			<div class="list">
           <ul class="ticklist2">
           	<li class="heading">Package Includes</li>
-            <li>3 Logo Concepts</li>
-            <li>3 Revisions</li>
-            <li>By 2 Dedicated Designers</li>
-            <li>24 - 48 Hours Turn Around Time</li>
-            <li class="heading">Free:</li>
-            <li>Colour Option</li>
-            <li>GreyScale Format</li>
-            <li>Final Files (Jpeg, PNG)</li>
-            <li class="heading">FEATURES</li>
-             <li>Dedicated Account Manager</li>
+             <li>1 Unique Design</li>
+            <li>4 Design concepts (Trifold / Bi-fold)</li>
+            <li>Dedicated Designer</li>
+            <li>Dedicated Account Manager</li>
+            <li>Unlimited Revisions</li>
+            <li>Turnaround Time - 48 - 72 Hours</li>
+            <li class="heading">Features</li>
+            <li>100% Satisfaction Guaranteed</li>
+            <li>100% Ownership rights</li>
+            <li>100% Unique Design Guarantee</li>
             <li>100% Money Back Guarantee</li>
-            <li>100% Assurance Guarantee</li>
-            <li>100% Ownership Rights</li>
-            <!--<li>24/7 Support (Email, Chat, Call, SMS, Whatsapp)</li>-->
+            <li>All Final File Formats</li>
           </ul>
         </div>
         </div>
@@ -140,7 +150,7 @@
         <div class="txtwrp">
             <h4 class="">Next Level Design <br> & Technology</h4>
             <p class="">You have the vision for a stunning digital experience.<br> We’re the team that can bring it to life.</p>
-            <a class="custBtn" href="/get-a-quote.html">get a quote</a>
+            <a class="custBtn" href="/get-a-quote.php">get a quote</a>
             <a class="clus" href="tel:17203863784">call now</a>
         </div>
       </div>
@@ -216,7 +226,7 @@
               <input type="hidden" name="pc" value="">
               <input type="hidden" name="cip" value="">
               <input type="hidden" name="hiddencapcha" value="">
-              <input type="hidden" id="location" name="locationURL" value="http://websitedivine.co.uk/lp/custom-logo-design/packages/bronze-logo-package" />
+              <input type="hidden" id="location" name="locationURL" value="http://websitedivine.co.uk/lp/custom-logo-design/packages/brochureflyer-branding-package" />
           </div>
           </div>
       </div>
@@ -318,7 +328,7 @@
               <input type="hidden" name="ctry" value="">
               <input type="hidden" name="pc" value="">
               <input type="hidden" name="cip" value="">
-              <input type="hidden" id="location" name="locationURL" value="http://websitedivine.co.uk/lp/custom-logo-design/packages/bronze-logo-package" />
+              <input type="hidden" id="location" name="locationURL" value="http://websitedivine.co.uk/lp/custom-logo-design/packages/brochureflyer-branding-package" />
                 </div>
               </div>
             </div>

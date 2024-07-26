@@ -65,7 +65,7 @@
                 <ul>
                  
                    <li><a href="tel:17203863784"> 0151 8080 128 </a></li>
-                   <li><a href="/get-a-quote.html" class="custBtn">Let's get Started</a></li>
+                   <li><a href="/get-a-quote.php" class="custBtn">Let's get Started</a></li>
                 </ul>
 
 
@@ -104,7 +104,7 @@
         <div class="chat-con">
           <ul>
             <li class="pkge-ordr">
-              <a href="/get-a-quote.html?pack=1">Order Now</a>
+              <a href="/get-a-quote.php?pack=1">Order Now</a>
             </li>
             <!--<li class="pkge-bkcl">-->
             <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -150,7 +150,7 @@
         <div class="txtwrp">
             <h4 class="">Next Level Design <br> & Technology</h4>
             <p class="">You have the vision for a stunning digital experience.<br> We’re the team that can bring it to life.</p>
-            <a class="custBtn" href="/get-a-quote.html">get a quote</a>
+            <a class="custBtn" href="/get-a-quote.php">get a quote</a>
             <a class="clus" href="tel:17203863784">call now</a>
         </div>
       </div>

@@ -66,7 +66,7 @@
                 <ul>
                  
                    <li><a href="tel:17203863784"> 172-038-63784 </a></li>
-                   <li><a href="/get-a-quote.html" class="custBtn">Let's get Started</a></li>
+                   <li><a href="/get-a-quote.php" class="custBtn">Let's get Started</a></li>
                 </ul>
 
 
@@ -354,7 +354,7 @@
 						<div class="col-lg-5 offset-lg-1 col-md-6 col-sm-12">
 							<div class="logotabsinner">
 								<p>A well-designed iconic logo represents (or demonstrates) an idea, concept, operation, or activity. Icons use a graphical representation to simplify or describe an operation. Iconic Logo Designs are a vital feature in the UI/UX interface and are widely used in applications (or apps) to reflect what the app does.</p>
-								<a class="custBtn" href="/get-a-quote.html" onclick="setButtonURL();">get a quote</a>
+								<a class="custBtn" href="/get-a-quote.php" onclick="setButtonURL();">get a quote</a>
 								<a class="clus" href="tel:17203863784">call now</a>
 							</div>
 						</div>
@@ -372,7 +372,7 @@
 						<div class="col-lg-5 offset-lg-1 col-md-6 col-sm-12">
 							<div class="logotabsinner">
 								<p>Illustrative logos are far more complex and difficult to create. They are the most effective of all treatments. An illustrated logo is the greatest solution for establishing a logo as a brand in a highly competitive market. We take illustrative logo design extremely seriously, and we have all of the necessary experience and equipment to produce logos that will last.</p>
-								<a class="custBtn" href="/get-a-quote.html" onclick="setButtonURL();">get a quote</a>
+								<a class="custBtn" href="/get-a-quote.php" onclick="setButtonURL();">get a quote</a>
 								<a class="clus" href="tel:17203863784">call now</a>
 							</div>
 						</div>
@@ -391,7 +391,7 @@
 							<div class="logotabsinner">
 								<p>Do you want to create a wordmark logo for your company?</p>
 								<p>It's all about simplicity when it comes to wordmark logos. There's a reason why wordmark logos are so popular in industries like technology, media, fashion, and food. They're neat and leave a lasting impression on the intended audience.</p>
-								<a class="custBtn" href="/get-a-quote.html" onclick="setButtonURL();">get a quote</a>
+								<a class="custBtn" href="/get-a-quote.php" onclick="setButtonURL();">get a quote</a>
 								<a class="clus" href="tel:17203863784">call now</a>
 							</div>
 						</div>
@@ -409,7 +409,7 @@
 						<div class="col-lg-5 offset-lg-1 col-md-6 col-sm-12">
 							<div class="logotabsinner">
 								<p>While most firms choose for flat logos, 3D logos make an immediate impression on customers and tip the scales in a brand's favor. We at Website Divine create 3D logos that successfully communicate the brand message. Furthermore, we have worked for a variety of businesses across a variety of industries, and we have consistently delivered 100 percent satisfaction to each of them.</p>
-								<a class="custBtn" href="/get-a-quote.html" onclick="setButtonURL();">get a quote</a>
+								<a class="custBtn" href="/get-a-quote.php" onclick="setButtonURL();">get a quote</a>
 								<a class="clus" href="tel:17203863784">call now</a>
 							</div>
 						</div>
@@ -427,7 +427,7 @@
 						<div class="col-lg-5 offset-lg-1 col-md-6 col-sm-12">
 							<div class="logotabsinner">
 								<p>If you're stuck for ideas, we've compiled a list of fantastic Abstract Logo Design suggestions for your company. From tiny businesses to major corporations, abstract logo design is a common choice. A well-designed abstract logo necessitates a lot of effort and knowledge of current design trends.</p>
-								<a class="custBtn" href="/get-a-quote.html" onclick="setButtonURL();">get a quote</a>
+								<a class="custBtn" href="/get-a-quote.php" onclick="setButtonURL();">get a quote</a>
 								<a class="clus" href="tel:17203863784">call now</a>
 							</div>
 						</div>
@@ -445,7 +445,7 @@
 						<div class="col-lg-5 offset-lg-1 col-md-6 col-sm-12">
 							<div class="logotabsinner">
 								<p>Flat logo designs have been increasingly popular among professional designers in recent years, and they can be found in practically every facet of visual design. Flat logo designs have their own set of distinguishing and distinct traits. To get a taste of this trend, We Website Divine have compiled a collection of stunning Flat Logo Designs that will make an impression on clients and stick with them.</p>
-								<a class="custBtn" href="/get-a-quote.html" onclick="setButtonURL();">get a quote</a>
+								<a class="custBtn" href="/get-a-quote.php" onclick="setButtonURL();">get a quote</a>
 								<a class="clus" href="tel:17203863784">call now</a>
 							</div>
 						</div>
@@ -806,7 +806,7 @@
           <div class="txtwrp">
               <h4 class="">Next Level Design <br> & Technology</h4>
               <p class="">You have the vision for a stunning digital experience.<br> We’re the team that can bring it to life.</p>
-              <a class="custBtn" href="/get-a-quote.html">get a quote</a>
+              <a class="custBtn" href="/get-a-quote.php">get a quote</a>
               <a class="clus" href="tel:17203863784">call now</a>
           </div>
         </div>
@@ -865,7 +865,7 @@
 <!--        <div class="chat-con">-->
 <!--          <ul>-->
 <!--            <li class="pkge-ordr">-->
-<!--              <a href="/get-a-quote.html?pack=21">Order Now</a>-->
+<!--              <a href="/get-a-quote.php?pack=21">Order Now</a>-->
 <!--            </li>-->
 <!--            <li class="pkge-bkcl">-->
 <!--              <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -907,7 +907,7 @@
   <!--      <div class="chat-con">-->
   <!--        <ul>-->
   <!--          <li class="pkge-ordr">-->
-  <!--            <a href="/get-a-quote.html?pack=1">Order Now</a>-->
+  <!--            <a href="/get-a-quote.php?pack=1">Order Now</a>-->
   <!--          </li>-->
   <!--          <li class="pkge-bkcl">-->
   <!--            <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -949,7 +949,7 @@
         <div class="chat-con">
           <ul>
             <li class="pkge-ordr">
-              <a href="/get-a-quote.html?pack=1">Order Now</a>
+              <a href="/get-a-quote.php?pack=1">Order Now</a>
             </li>
             <!--<li class="pkge-bkcl">-->
             <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -993,7 +993,7 @@
         <div class="chat-con">
           <ul>
             <li class="pkge-ordr">
-              <a href="/get-a-quote.html?pack=2">Order Now</a>
+              <a href="/get-a-quote.php?pack=2">Order Now</a>
             </li>
             <!--<li class="pkge-bkcl">-->
             <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -1037,7 +1037,7 @@
         <div class="chat-con">
           <ul>
             <li class="pkge-ordr">
-              <a href="/get-a-quote.html?pack=3">Order Now</a>
+              <a href="/get-a-quote.php?pack=3">Order Now</a>
             </li>
             <!--<li class="pkge-bkcl">-->
             <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -1083,7 +1083,7 @@
         <div class="chat-con">
           <ul>
             <li class="pkge-ordr">
-              <a href="/get-a-quote.html?pack=4">Order Now</a>
+              <a href="/get-a-quote.php?pack=4">Order Now</a>
             </li>
             <!--<li class="pkge-bkcl">-->
             <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -1131,7 +1131,7 @@
         <div class="chat-con">
           <ul>
             <li class="pkge-ordr">
-              <a href="/get-a-quote.html?pack=5">Order Now</a>
+              <a href="/get-a-quote.php?pack=5">Order Now</a>
             </li>
             <!--<li class="pkge-bkcl">-->
             <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -1183,7 +1183,7 @@
         <div class="chat-con">
           <ul>
             <li class="pkge-ordr">
-              <a href="/get-a-quote.html?pack=6">Order Now</a>
+              <a href="/get-a-quote.php?pack=6">Order Now</a>
             </li>
             <!--<li class="pkge-bkcl">-->
             <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -1230,7 +1230,7 @@
                   <div class="chat-con">
                     <ul>
                       <li class="pkge-ordr">
-                        <a class="btn-christmas" href="/get-a-quote.html?pack=7">Order Now</a>
+                        <a class="btn-christmas" href="/get-a-quote.php?pack=7">Order Now</a>
                       </li>
                       <!--<li class="pkge-bkcl">-->
                       <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -1276,7 +1276,7 @@
                   <div class="chat-con">
                     <ul>
                       <li class="pkge-ordr">
-                        <a class="btn-christmas" href="/get-a-quote.html?pack=8">Order Now</a>
+                        <a class="btn-christmas" href="/get-a-quote.php?pack=8">Order Now</a>
                       </li>
                       <!--<li class="pkge-bkcl">-->
                       <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -1325,7 +1325,7 @@
                   <div class="chat-con">
                     <ul>
                       <li class="pkge-ordr">
-                        <a class="btn-christmas" href="/get-a-quote.html?pack=9">Order Now</a>
+                        <a class="btn-christmas" href="/get-a-quote.php?pack=9">Order Now</a>
                       </li>
                       <!--<li class="pkge-bkcl">-->
                       <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -1372,7 +1372,7 @@
                   <div class="chat-con">
                     <ul>
                       <li class="pkge-ordr">
-                        <a class="btn-christmas" href="/get-a-quote.html?pack=10">Order Now</a>
+                        <a class="btn-christmas" href="/get-a-quote.php?pack=10">Order Now</a>
                       </li>
                       <!--<li class="pkge-bkcl">-->
                       <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -1421,7 +1421,7 @@
                   <div class="chat-con">
                     <ul>
                       <li class="pkge-ordr">
-                        <a class="btn-christmas" href="/get-a-quote.html?pack=11">Order Now</a>
+                        <a class="btn-christmas" href="/get-a-quote.php?pack=11">Order Now</a>
                       </li>
                       <!--<li class="pkge-bkcl">-->
                       <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -1469,7 +1469,7 @@
                   <div class="chat-con">
                     <ul>
                       <li class="pkge-ordr">
-                        <a class="btn-christmas" href="/get-a-quote.html?pack=12">Order Now</a>
+                        <a class="btn-christmas" href="/get-a-quote.php?pack=12">Order Now</a>
                       </li>
                       <!--<li class="pkge-bkcl">-->
                       <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -1514,7 +1514,7 @@
                   <div class="chat-con">
                     <ul>
                       <li class="pkge-ordr">
-                        <a class="btn-christmas" href="/get-a-quote.html?pack=13">Order Now</a>
+                        <a class="btn-christmas" href="/get-a-quote.php?pack=13">Order Now</a>
                       </li>
                       <!--<li class="pkge-bkcl">-->
                       <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -1562,7 +1562,7 @@
                   <div class="chat-con">
                     <ul>
                       <li class="pkge-ordr">
-                        <a class="btn-christmas" href="/get-a-quote.html?pack=14">Order Now</a>
+                        <a class="btn-christmas" href="/get-a-quote.php?pack=14">Order Now</a>
                       </li>
                       <!--<li class="pkge-bkcl">-->
                       <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -1606,7 +1606,7 @@
                     <div class="chat-con">
                       <ul>
                         <li class="pkge-ordr">
-                          <a href="/get-a-quote.html?pack=15">Order Now</a>
+                          <a href="/get-a-quote.php?pack=15">Order Now</a>
                         </li>
                         <!--<li class="pkge-bkcl">-->
                         <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -1646,7 +1646,7 @@
                     <div class="chat-con">
                       <ul>
                         <li class="pkge-ordr">
-                          <a href="/get-a-quote.html?pack=16">Order Now</a>
+                          <a href="/get-a-quote.php?pack=16">Order Now</a>
                         </li>
                         <!--<li class="pkge-bkcl">-->
                         <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -1686,7 +1686,7 @@
                     <div class="chat-con">
                       <ul>
                         <li class="pkge-ordr">
-                          <a href="/get-a-quote.html?pack=17">Order Now</a>
+                          <a href="/get-a-quote.php?pack=17">Order Now</a>
                         </li>
                         <!--<li class="pkge-bkcl">-->
                         <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -1761,7 +1761,7 @@
 								</figure>
 								<p><span>$1798.00</span> $899.00</p>
 								<p class="dscong-prc">50% Discounted Price</p>
-								<a href="/get-a-quote.html?pack=18">Order Now</a>
+								<a href="/get-a-quote.php?pack=18">Order Now</a>
 							</div>
 						</div>
 					</div>
@@ -1803,7 +1803,7 @@
 								</figure>
 								<p><span>$2,598.00</span> $1,299.00</p>
 								<p class="dscong-prc">50% Discounted Price</p>
-								<a href="/get-a-quote.html?pack=19">Order Now</a>
+								<a href="/get-a-quote.php?pack=19">Order Now</a>
 							</div>
 						</div>
 					</div>
@@ -2015,7 +2015,7 @@
         <div class="txtwrp">
             <h4 class="">Next Level Design <br> & Technology</h4>
             <p class="">You have the vision for a stunning digital experience.<br> We’re the team that can bring it to life.</p>
-            <a class="custBtn" href="/get-a-quote.html">get a quote</a>
+            <a class="custBtn" href="/get-a-quote.php">get a quote</a>
             <a class="clus" href="tel:17203863784">call now</a>
         </div>
       </div>

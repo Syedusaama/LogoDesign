@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Ruby Illustrative Package</title>
+<title>Gold Logo Package</title>
 <meta name="keywords" content="">
 <meta name="description" content="">
 
@@ -65,7 +65,7 @@
                 <ul>
                  
                    <li><a href="tel:17203863784"> 0151 8080 128 </a></li>
-                   <li><a href="/get-a-quote.html" class="custBtn">Let's get Started</a></li>
+                   <li><a href="/get-a-quote.php" class="custBtn">Let's get Started</a></li>
                 </ul>
 
 
@@ -94,9 +94,9 @@
    				<div class="package-wrapper">
       <div class="package-item">
         <div class="heading">
-          <h2 class="pkge-name">Ruby Illustrative<span> Package</span></h2>
-          <p class="pkge-prce three-wrds">$295 </p>
-          <span class="old-price">$590</span>
+          <h2 class="pkge-name">Gold <span>Logo Package</span></h2>
+          <p class="pkge-prce three-wrds">$95 </p>
+          <span class="old-price">$190</span>
         </div>
         <hr>
         
@@ -104,7 +104,7 @@
         <div class="chat-con">
           <ul>
             <li class="pkge-ordr">
-              <a href="/get-a-quote.html?pack=1">Order Now</a>
+              <a href="/get-a-quote.php?pack=3">Order Now</a>
             </li>
             <!--<li class="pkge-bkcl">-->
             <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -122,22 +122,23 @@
 			<div class="list">
           <ul class="ticklist2">
           	<li class="heading">Package Includes</li>
-             <li>3 Custom Illustrative Logo Concepts</li>
-              <li>5 Revisions (Additional $20)</li>
-              <li>By 3 Top Rated Dedicated Designers</li>
-              <li>Brand Icon</li>
-              <li>48 - 72 Hours Turn Around Time</li>
-              <li class="heading">Free:</li>
-              <li>Colour Option</li>
-              <li>GreyScale Format</li>
-              <li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
-              <li class="heading">FEATURES</li>
-              <!--<li>100% Real Account Manager (No Bot)</li>-->
-                        <li>Dedicated Account Manager</li>
-              <li>100% Money Back Guarantee</li>
-              <li>100% Assurance Guarantee</li>
-              <li>100% Ownership Rights</li>
-              <!--<li>24/7 Support (Email, Chat, Call, SMS, Whatsapp)</li>-->
+            <li>UNLIMITED Logo Design Concepts</li>
+	<li>By 4 Industry Based Designers</li>
+	<li>UNLIMITED Revisions</li>
+	<li>FREE MS Electronic Letterhead</li>
+	<li>48 to 72 hours TAT</li>
+	<li>FREE File Formats (EPS, Ai, GIF, JPEG, PSD)</li>
+            <li class="heading">FREE</li>
+            <li>Colour Option</li>
+            <li>GreyScale Format</li>
+            <li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+            <li class="heading">FEATURES</li>
+            <!--<li>100% Real Account Manager (No Bot)</li>-->
+                      <li>Dedicated Account Manager</li>
+            <li>100% Money Back Guarantee</li>
+            <li>100% Assurance Guarantee</li>
+            <li>100% Ownership Rights</li>
+            <!--<li>24/7 Support (Email, Chat, Call, SMS, Whatsapp)</li>-->
           </ul>
         </div>
         </div>
@@ -154,7 +155,7 @@
         <div class="txtwrp">
             <h4 class="">Next Level Design <br> & Technology</h4>
             <p class="">You have the vision for a stunning digital experience.<br> We’re the team that can bring it to life.</p>
-            <a class="custBtn" href="/get-a-quote.html">get a quote</a>
+            <a class="custBtn" href="/get-a-quote.php">get a quote</a>
             <a class="clus" href="tel:17203863784">call now</a>
         </div>
       </div>
@@ -230,7 +231,7 @@
               <input type="hidden" name="pc" value="">
               <input type="hidden" name="cip" value="">
               <input type="hidden" name="hiddencapcha" value="">
-              <input type="hidden" id="location" name="locationURL" value="http://websitedivine.co.uk/lp/custom-logo-design/packages/ruby-illustrative-package" />
+              <input type="hidden" id="location" name="locationURL" value="http://websitedivine.co.uk/lp/custom-logo-design/packages/gold-logo-package" />
           </div>
           </div>
       </div>
@@ -332,7 +333,7 @@
               <input type="hidden" name="ctry" value="">
               <input type="hidden" name="pc" value="">
               <input type="hidden" name="cip" value="">
-              <input type="hidden" id="location" name="locationURL" value="http://websitedivine.co.uk/lp/custom-logo-design/packages/ruby-illustrative-package" />
+              <input type="hidden" id="location" name="locationURL" value="http://websitedivine.co.uk/lp/custom-logo-design/packages/gold-logo-package" />
                 </div>
               </div>
             </div>

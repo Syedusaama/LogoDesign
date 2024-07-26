@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Infinite Logo Package</title>
+<title>Platinum Logo Package</title>
 <meta name="keywords" content="">
 <meta name="description" content="">
 
@@ -65,7 +65,7 @@
                 <ul>
                  
                    <li><a href="tel:17203863784"> 0151 8080 128 </a></li>
-                   <li><a href="/get-a-quote.html" class="custBtn">Let's get Started</a></li>
+                   <li><a href="/get-a-quote.php" class="custBtn">Let's get Started</a></li>
                 </ul>
 
 
@@ -94,9 +94,9 @@
    				<div class="package-wrapper">
       <div class="package-item">
         <div class="heading">
-          <h2 class="pkge-name">Infinite<span>Logo Package</span></h2>
-          <p class="pkge-prce three-wrds">$395</p>
-           <span class="old-price">$790</span>
+          <h2 class="pkge-name">Platinum<span>Logo Package</span></h2>
+          <p class="pkge-prce three-wrds">$165 </p>
+          <span class="old-price">$330</span>
         </div>
         <hr>
         
@@ -104,7 +104,7 @@
         <div class="chat-con">
           <ul>
             <li class="pkge-ordr">
-              <a href="/get-a-quote.html?pack=1">Order Now</a>
+              <a href="/get-a-quote.php?pack=4">Order Now</a>
             </li>
             <!--<li class="pkge-bkcl">-->
             <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -122,26 +122,19 @@
 			<div class="list">
           <ul class="ticklist2">
           	<li class="heading">Package Includes</li>
-            <li>Unlimited Logo Concepts</li>
-            <li>Unlimited Revisions</li>
-            <li>By 2 Dedicated Team Of Designers</li>
-            <li>3 Pages Custom Website</li>
-            <li>Social Media Integration</li>
-            <li>Google Map Integration</li>
-            <li>W3C Certified HTML</li>
-            <li>Complete Deployment</li>
-            <li>By 2 Dedicated Senior Developers</li>
-            <li>Social Media Design (Facebook, LinkedIn, Twitter)</li>
-            <li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
-            <li>Email Signature</li>
-            <li>Brand Icon</li>
-            <li>24 - 48 Hours Turn Around Time</li>
-            <li class="heading">Free:</li>
+             <li>UNLIMITED Logo Design Concepts</li>
+	<li>By 5 Award Winning Designers</li>
+	<li>Free Icon Design</li>
+	<li>FREE Custom Stationery Design (Letterhead, Business Card, Envelope, Invoice)</li>
+	<li>Social Media Design (Facebook, LinkedIn, Twitter)</li>
+	<li>FREE MS Word Letterhead</li>
+	<li>Email Signature Design</li>
+	<li>UNLIMITED Revisions</li>
+            <li class="heading">FREE</li>
             <li>Colour Option</li>
             <li>GreyScale Format</li>
             <li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
-            
-            <li class="heading">Features:</li>
+            <li class="heading">FEATURES</li>
             <!--<li>100% Real Account Manager (No Bot)</li>-->
                       <li>Dedicated Account Manager</li>
             <li>100% Money Back Guarantee</li>
@@ -164,7 +157,7 @@
         <div class="txtwrp">
             <h4 class="">Next Level Design <br> & Technology</h4>
             <p class="">You have the vision for a stunning digital experience.<br> We’re the team that can bring it to life.</p>
-            <a class="custBtn" href="/get-a-quote.html">get a quote</a>
+            <a class="custBtn" href="/get-a-quote.php">get a quote</a>
             <a class="clus" href="tel:17203863784">call now</a>
         </div>
       </div>
@@ -240,7 +233,7 @@
               <input type="hidden" name="pc" value="">
               <input type="hidden" name="cip" value="">
               <input type="hidden" name="hiddencapcha" value="">
-              <input type="hidden" id="location" name="locationURL" value="http://websitedivine.co.uk/lp/custom-logo-design/packages/infinite-logo-package" />
+              <input type="hidden" id="location" name="locationURL" value="http://websitedivine.co.uk/lp/custom-logo-design/packages/platinum-logo-package" />
           </div>
           </div>
       </div>
@@ -342,7 +335,7 @@
               <input type="hidden" name="ctry" value="">
               <input type="hidden" name="pc" value="">
               <input type="hidden" name="cip" value="">
-              <input type="hidden" id="location" name="locationURL" value="http://websitedivine.co.uk/lp/custom-logo-design/packages/infinite-logo-package" />
+              <input type="hidden" id="location" name="locationURL" value="http://websitedivine.co.uk/lp/custom-logo-design/packages/platinum-logo-package" />
                 </div>
               </div>
             </div>

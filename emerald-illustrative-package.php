@@ -1,8 +1,8 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<title>Stationery Branding Package</title>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Emerald Illustrative Package</title>
 <meta name="keywords" content="">
 <meta name="description" content="">
 
@@ -65,7 +65,7 @@
                 <ul>
                  
                    <li><a href="tel:17203863784"> 0151 8080 128 </a></li>
-                   <li><a href="/get-a-quote.html" class="custBtn">Let's get Started</a></li>
+                   <li><a href="/get-a-quote.php" class="custBtn">Let's get Started</a></li>
                 </ul>
 
 
@@ -94,9 +94,9 @@
    				<div class="package-wrapper">
       <div class="package-item">
         <div class="heading">
-          <h2 class="pkge-name">Stationery <span>Package</span></h2>
-          <p class="pkge-prce three-wrds">$74 </p>
-          <span class="old-price">$148</span>
+          <h2 class="pkge-name">Emerald Illustrative<span> Package</span></h2>
+          <p class="pkge-prce three-wrds">$495 </p>
+          <span class="old-price">$990</span>
         </div>
         <hr>
         
@@ -104,7 +104,7 @@
         <div class="chat-con">
           <ul>
             <li class="pkge-ordr">
-              <a href="/get-a-quote.html?pack=1">Order Now</a>
+              <a href="/get-a-quote.php?pack=1">Order Now</a>
             </li>
             <!--<li class="pkge-bkcl">-->
             <!--  <a href="javascript:;" class="book-call-now">Book a Call</a>-->
@@ -122,18 +122,24 @@
 			<div class="list">
           <ul class="ticklist2">
           	<li class="heading">Package Includes</li>
-             <li>1 Business Card Design</li>
-            <li>1 Letterhead Design</li>
-            <li>1 Envelope Design</li>
-            <li>Dedicated Designer</li>
-            <li>3 Design Revisions</li>
-            <li>Turnaround Time 24 - 48 Hours</li>
-            <li class="heading">Features</li>
-            <li>100% Satisfaction Guaranteed</li>
-            <li>100% Ownership rights</li>
-            <li>100% Unique Design Guarantee</li>
-            <li>100% Money Back Guarantee</li>
-            <li>All Final File Formats</li>
+             <li>6 Custom Illustrative Logo Concepts</li>
+              <li>Unlimited Revisions</li>
+              <li>By 6 Top Rated Dedicated Designers</li>
+              <li>Social Media Design (Facebook, LinkedIn, Twitter)</li>
+              <li>Stationery Design (Business Cards, Letterhead, Invoice)</li>
+              <li>Brand Icon</li>
+              <li>48 - 72 Hours Turn Around Time</li>
+              <li class="heading">FREE</li>
+              
+              <li>Colour Option</li>
+              <li>GreyScale Format</li>
+              <li>Final Files (Ai, PSD, PDF, SVG, EPS, Jpeg, PNG, Tiff)</li>
+              <li class="heading">FEATURES</li>
+               <li>Dedicated Account Manager</li>
+              <li>100% Money Back Guarantee</li>
+              <li>100% Assurance Guarantee</li>
+              <li>100% Ownership Rights</li>
+              <!--<li>24/7 Support (Email, Chat, Call, SMS, Whatsapp)</li>-->
           </ul>
         </div>
         </div>
@@ -150,7 +156,7 @@
         <div class="txtwrp">
             <h4 class="">Next Level Design <br> & Technology</h4>
             <p class="">You have the vision for a stunning digital experience.<br> We’re the team that can bring it to life.</p>
-            <a class="custBtn" href="/get-a-quote.html">get a quote</a>
+            <a class="custBtn" href="/get-a-quote.php">get a quote</a>
             <a class="clus" href="tel:17203863784">call now</a>
         </div>
       </div>
@@ -226,7 +232,7 @@
               <input type="hidden" name="pc" value="">
               <input type="hidden" name="cip" value="">
               <input type="hidden" name="hiddencapcha" value="">
-              <input type="hidden" id="location" name="locationURL" value="http://websitedivine.co.uk/lp/custom-logo-design/packages/stationery-branding-package" />
+              <input type="hidden" id="location" name="locationURL" value="http://websitedivine.co.uk/lp/custom-logo-design/packages/emerald-illustrative-package" />
           </div>
           </div>
       </div>
@@ -328,7 +334,7 @@
               <input type="hidden" name="ctry" value="">
               <input type="hidden" name="pc" value="">
               <input type="hidden" name="cip" value="">
-              <input type="hidden" id="location" name="locationURL" value="http://websitedivine.co.uk/lp/custom-logo-design/packages/stationery-branding-package" />
+              <input type="hidden" id="location" name="locationURL" value="http://websitedivine.co.uk/lp/custom-logo-design/packages/emerald-illustrative-package" />
                 </div>
               </div>
             </div>
