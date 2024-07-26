@@ -324,7 +324,7 @@ z-index: -1;
 
 
 
-.banner-text h6{color: #f58432;font-size: 16px;margin-bottom: 10px;}
+.banner-text h6{color: #371577;font-size: 16px;margin-bottom: 10px;padding-top: 20px;}
 
 
 
@@ -4847,7 +4847,7 @@ ul.tbing li {padding: 10px 12px 0; font-size: 13px; margin: 7px 3px;}
 }
 .custBtn {
     border-radius: 10px;
-    background: linear-gradient(90deg, #F58432 0%, #C66626 100%);
+    
     color: white;
     height: 50px;
     padding: 11px 20px;
@@ -4863,6 +4863,7 @@ ul.tbing li {padding: 10px 12px 0; font-size: 13px; margin: 7px 3px;}
 }
 .banner-text p {
     font-size: 12px;
+    color: #000;
 }
 }
 
