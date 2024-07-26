@@ -4319,7 +4319,20 @@ ul.tbing li.current {color: #fff;border: 1px solid #fff;background: linear-gradi
 .main-banner-from-sec .wrk-wth:after, .wrk-wth.bannerform:after{display: none;}
 
 .main-banner-from-sec .wrk-wth .form .frmbtn{text-align: center;}
-
+.frmbtn-end [type=submit]{
+    text-align: center;
+    border: none;
+    height: 50px;
+    text-transform: uppercase;
+    padding: 10px 30px;
+    font-weight: 600;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 15px;
+    background: #6d3aca;
+    color: #fff;
+    border-radius: 8px;
+}
 .floatbutton.visible .clickbutton{opacity: 1;-webkit-transition: 0.4s;-moz-transition: 0.4s;-o-transition: 0.4s;transition: 0.4s;}
 .floatbutton{
     -webkit-transition: 0.4s;
