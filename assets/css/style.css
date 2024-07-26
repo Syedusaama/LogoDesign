@@ -1,7 +1,11 @@
 body{
     font-family: 'Poppins', sans-serif !important;
 }
-
+.thanku{
+    padding-top: 400px;
+    padding-bottom: 300px;
+    text-align: center;
+}
 strike{
     color: #704543;
 }
