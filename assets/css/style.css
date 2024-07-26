@@ -24,7 +24,8 @@ a{
 
 a:hover{
 
-color: #fff;
+color: #fff !important;
+text-decoration: none !important;
 
 }
 
@@ -4360,7 +4361,7 @@ background: #fff;display: inline-block;padding-top: 0px;}
 /*floating strips css start */
 .floating_wrap{position: fixed; right: 0px; top: 100px; z-index: 99; }
 .floating_wrap .btns_wrap{position: fixed;right: 0px;}
-.floating_wrap .btns_wrap a:hover{text-decoration: none!important;right: 0px;}
+.floating_wrap .btns_wrap a:hover{text-decoration: none !important;right: 0px;}
 .floating_wrap .btns_wrap .call_wrap{width: 275px;position: absolute;right: -225px;background: #412c88;top: 60px;border-radius: 50px 0px 0px 50px;overflow: hidden;box-shadow: 0px 0px 40px #00000026 !important;-webkit-transition: all 0.3s ease;-moz-transition: all 0.3s ease;-ms-transition: all 0.3s ease;-o-transition: all 0.3s ease;transition: all 0.3s ease;}
 .floating_wrap .btns_wrap .call_wrap span{color: #fff;font-size: 20px;vertical-align: middle;padding: 15px 20px 15px 15px;border-color: #412c88;}
 .floating_wrap .btns_wrap .chat_wrap{display: block;position: absolute;right: -225px;width: 275px;background: #412c88;top: 0;border-radius: 0px;overflow: hidden;box-shadow: 0px 0px 40px #00000026 !important;-webkit-transition: all 0.3s ease;-moz-transition: all 0.3s ease;-ms-transition: all 0.3s ease;-o-transition: all 0.3s ease;transition: all 0.3s ease;border-radius: 50px 0px 0px 50px;}
@@ -4541,7 +4542,7 @@ span.old-price {}
 .packDetailpage .ticklist2 li:before {color: #241b62;left: auto;right: 0;}
 
 .viewdetail {color: #333; text-align: center; display: block; font-size: 14px; margin: 7px 0 15px; }
-.viewdetail:hover {color: #412c88;}
+.viewdetail:hover {color: #412c88 !important;}
 
 .main-trms-sec{padding: 60px 0px 15px 0px;}
 .trms-inner-sec h1{font-size: 46px; font-weight: 400; margin: 0 0 30px 0; padding: 0; }
@@ -4852,6 +4853,7 @@ ul.tbing li {padding: 10px 12px 0; font-size: 13px; margin: 7px 3px;}
     font-size: 26px;
     font-weight: 700;
     line-height: inherit;
+    color: #6d3aca;
 }
 .banner-text p {
     font-size: 12px;
