@@ -861,9 +861,9 @@ section.faq_section li:before, section.faq_section li:after {
 }
 
 .bi-button {
-    background-color: #ff0053;
+    background: linear-gradient(90deg, #3d2b82 0%, #6d3aca 100%);
     color: #fff;
-    padding: 20px 50px;
+    padding: 15px 20px;
     transition: .3s;
     font-weight: 600;
 }
@@ -889,7 +889,7 @@ section.faq_section li:before, section.faq_section li:after {
 }
 
 .howwork-inner h6 {
-    color: #fbb00e;
+    color: #412d88;
     font-size: 30px;
     font-weight: 700;
     text-transform: uppercase;
@@ -963,6 +963,7 @@ section.faq_section li:before, section.faq_section li:after {
     padding-top: 30px;
     font-size: 19px;
     font-weight: 600;
+    color: #412d88;
 }
 
 .sdWorks-line .inner-sd img {
@@ -992,8 +993,11 @@ section.faq_section li:before, section.faq_section li:after {
     box-shadow: 0px 50px 50px 0px rgba(251, 176, 14, 0.1), 0px 50px 50px 0px rgba(251, 176, 14, 0.1);
 }
 
-.sm-howwork {
+.sm-howwork{
     display: none;
+}
+.sm-howwork.active{
+    display: block;
 }
 /* how it works section css end */
 
