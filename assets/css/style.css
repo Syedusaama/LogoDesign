@@ -4178,7 +4178,9 @@ display: none;
     padding-top:20px;
     display: inline-block;
 }
-
+.logotabsinner .clus:hover{
+    color: #402c87 !important;
+}
 .emailsss a {
     position: absolute;
     content: "";
