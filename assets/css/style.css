@@ -184,7 +184,7 @@ i{
 
 
 .navi a{
-    color: #fff;
+    color: #6d3aca;
     padding: 0 10px;
     font-size: 18px;
 }
@@ -4246,7 +4246,7 @@ display: none;
 
 .prtflo {text-align: center;padding: 60px 0;position: relative;}
 
-.prtflo .secwrp {padding: 0 0 0;margin: 0 ;position: relative;    transition: all 0.5s ease-in-out;}
+.prtflo .secwrp {padding: 10px ;margin: 0 ;position: relative;    transition: all 0.5s ease-in-out;}
 .prtflo .secwrp:hover {transform: scale(1.1);border-radius: 10px;z-index: 9;}
 .prtflo .secwrp:hover span {background: #fffefe87;}
 .prtflo .secwrp:hover i {display: inline-block;width: 50px;padding: 13px 0;background: #412c88;border-radius: 50px;height: 50px;}
@@ -4265,7 +4265,7 @@ display: none;
 .prtflo .secwrp h3 {font-size: 49px;color: #ffffff;margin-top: 22px;}
 .prtflo .secwrp .lrnbtn {display: block; }
 .prtflo .secwrp .lrnbtn a {display: inline-block;color: #fff;text-transform: uppercase;font-size: 13px;margin-top: 47px;letter-spacing: .1em;word-spacing: .35em;padding: 14px 50px;border-radius: 29px;font-weight: 900;border: 1px solid #fff;}
-.prtflo .secwrp img {padding: 0 0 0;width: 100%;}
+.prtflo .secwrp img {padding: 0 0 0;width: 100%;border-radius:16px ;}
 
 .prtflo ul.tbing {margin: 0px 0 50px;}
 ul.tbing {width: 100%;margin: 50px 0 0;text-align: center;}
@@ -4283,7 +4283,7 @@ ul.tbing li.current {color: #fff;border: 1px solid #fff;background: linear-gradi
 
 
 .desgnanimtn {background-image: url(../images/cta.webp);text-align: left;vertical-align: middle;position: relative;background-position: right;background-size: 50%;background-repeat: no-repeat;padding: 120px 0;background-color: #0F193F;}
-.desgnanimtn:after {content: "";width: 100%;height: 100%;background-color: #00000066;top: 0;left: 0;position: absolute;z-index: 0;}
+.desgnanimtn:after {content: "";width: 100%;height: 100%;background-color: #6d3aca78;top: 0;left: 0;position: absolute;z-index: 0;}
 .desgnanimtn .txtwrp {position: relative; z-index: 9; }
 .desgnanimtn .txtwrp h4 {font-size: 65px;color: #fff;font-weight: bold;line-height: 1;}
 .desgnanimtn .txtwrp p {color: #fff;}
@@ -4312,8 +4312,7 @@ ul.tbing li.current {color: #fff;border: 1px solid #fff;background: linear-gradi
 .wrk-wth .form select:after {content: "\f107"; position: absolute; width: 15px; height: 15px; top: 0; display: block; background: #080808; font-size: 15px; }
 .intl-tel-input.separate-dial-code .selected-dial-code {font-size: 12px;}
 .form textarea {width: 100%;height: 160px;padding: 10px 0 0 10px;resize: unset;margin: 0 0 20px;box-shadow: 0px 0px 12px 0px rgba(0,0,0,0.09);border-radius: 7px;font-size: 13px;border: 1px solid #d4d4d4;}
-.wrk-wth .form .frmbtn [type=submit] {text-align: center;border: none;height: 50px;text-transform: uppercase;padding: 10px 30px;font-weight: 600;display: inline-block;cursor: pointer;font-size: 15px;background: linear-gradient(
-90deg, #3d2b82 0%, #6d3aca 100%);color: #fff;border-radius: 8px;}
+.wrk-wth .form .frmbtn [type=submit] {text-align: center;border: none;height: 50px;text-transform: uppercase;padding: 10px 30px;font-weight: 600;display: inline-block;cursor: pointer;font-size: 15px;background: #bd99ff;color: #fff;border-radius: 8px;}
 .wrk-wth .form .frmbtn [type=submit]:hover {}
 .wrk-wth .form .frmbtn {width: 100%;padding: 0;}
 .wrk-wth.bannerform .form .frmbtn [type=submit]{width: 100%;}
@@ -4470,7 +4469,7 @@ span.old-price {}
     font-weight: 600;
     text-transform: uppercase;
     padding: 12px 10px;
-    background: linear-gradient(90deg, #3d2b82 0%, #6d3aca 100%);
+    background: linear-gradient(90deg, #7153d9 0%, #5435be 100%);
     border-radius: 5px;
     display: block;
     }
@@ -4499,14 +4498,14 @@ span.old-price {}
 .chat-con ul {padding: 0px;margin: 0;}
 /*Packages CSS End*/
 
-.bannerform {background: #fff;padding: 30px 0 10px;border-radius: 8px;margin: 50px 0 0;z-index: 2;}
+.bannerform {background: #422d89;padding: 30px 0 10px;border-radius: 8px;margin: 50px 0 0;z-index: 2;}
 .bannerform h6 {font-size: 14px;margin: 0;}
 .bannerform h2 {font-size: 24px; }
 .wrk-wth.bannerform .form {width: 100%; margin: 0 auto; padding: 20px 30px; }
 .wrk-wth.bannerform .form textarea {height: 100px;margin: 20px 0 10px;}
 .main-banner-from-sec .bannerform{margin: 43px 0 0;overflow: visible;}
 .main-banner-from-sec .wrk-wth .form .frmbtn [type=submit]{width: 100%;}
-.main-banner-from-sec .bannerform h2 {font-size: 22px; margin: 0; padding: 0; }
+.main-banner-from-sec .bannerform h2 {font-size: 22px; margin: 0; padding: 0; color: #fff;}
 .main-banner-from-sec .form input{font-size: 13px;}
 .servicesinner {}
 .servicesinner img {max-width: 100%;}
@@ -4901,8 +4900,8 @@ ul.tbing li {padding: 10px 12px 0; font-size: 13px; margin: 7px 3px;}
     display: inline-block;
     cursor: pointer;
     font-size: 12px;
-    background: linear-gradient(90deg, #F58432 0%, #C66626 100%);
-    color: #fff;
+    background: #fff;
+    color: #F58432;
     border-radius: 8px;
 }
 .logo img {
